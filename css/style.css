@@ -1,0 +1,10 @@
+#navbar {
+    left: 0;
+    position: fixed;
+}
+
+@media (max-width: 900px) {
+    body {
+        width: 100%;
+    }
+}
